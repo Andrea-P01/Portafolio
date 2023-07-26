@@ -1,0 +1,114 @@
+body{
+    background: #d1bdf5;
+}
+#perfil{
+    background-color: white;
+}
+#imagen-perfil {
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #a98eda!important;
+}
+
+.nav-link{
+    color: #562aa8!important;
+}
+
+.text-bg-primary{
+    background-color: #a98eda!important;
+}
+
+.btn-primary{
+    background-color: #a98eda!important;
+}
+
+#desarrollo-web{
+    background-color: white;
+}
+#estudiante{
+    background-color: white;
+}
+
+#proyectos{
+    background-color: white ;
+}
+
+.titulo-proyecto{
+    text-shadow: 3px 5px 30px #000000 ;
+}
+
+#proyecto-1{
+    background-image: url('IMAGENES/CHARLES_1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: below;
+}
+
+#proyecto-2{
+    background-image: url('IMAGENES/CLON_GOOGLE.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: below;
+}
+
+#proyecto-3{
+    background-image: url('IMAGENES/MODELO-NEGOCIOS.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: below;
+}
+
+#proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+#proyecto-5{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+#testimonios{
+    background-color: white ;
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: #6f42c1;
+    height: 5px;
+}
+
+.carousel-caption{
+    color: black
+}
+
+.icono{
+    font-size: 2rem; 
+    color:white;
+    margin: 12px;
+}
+
+#testimonio-1{
+    border-radius: 50%;
+    width: 185x;
+    height: 185px;
+}
+
+#testimonio-2{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+#testimonio-3{
+    border-radius: 50%;
+    width: 200x;
+    height: 200px;
+}
