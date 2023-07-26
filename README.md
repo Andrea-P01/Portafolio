@@ -10,6 +10,8 @@ Incluye una descripción de su movitación, experiencia, proyectos, artículos p
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
+Puedes entrar a ver el proyecto en este vínculo: https://superlative-kheer-b326e4.netlify.app/
+
 ## Tecnologías
 
 Está página fue creada con:
