@@ -12,6 +12,8 @@ También contiene una sección de almacenamiento de archivos *(imágenes)* que n
 
 Puedes entrar a ver el proyecto en este vínculo: https://superlative-kheer-b326e4.netlify.app/
 
+![IMAGEN](IMAGENES/PORTAFOLIO.png)
+
 ## Tecnologías
 
 Está página fue creada con:
